@@ -1,0 +1,31 @@
+PHOTOSYNTHESIZE
+Game by Julia Wlo
+11/16/2014
+
+Instructions:
+You are a vine growing up a wall. Grow as fast as you can to the top of the
+screen!
+
+Controls: Mouse/Touchscreen
+Green circles are buds that can sprout! Click and drag on a green bud to grow
+ a new bud from that bud. Stretch towards the top!
+ Yellow buds cannot sprout.
+
+Watch your tension! Both buds and branches will break if they have too much
+tension placed on them. Branches break if you stretch them too far; buds
+break if they have too many branches pulling them in one direction. You can
+tell how much tension is on an object if you
+
+
+Implementation todo list:
+optionals:
+- buds colliding with each other
+- branches wrapping around each other
+- nighttime animations
+essentials:
+- multiplayer
+- coreys code
+- nighttome animations
+- scoring, winning
+- tutorial
+
